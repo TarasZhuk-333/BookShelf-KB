@@ -3,6 +3,9 @@ type: decision
 status: accepted
 project: BookShelf
 tags: [architecture, adr]
+documents:
+  - "[[Components/Streamlit UI]]"
+  - "[[Components/SQLite Storage]]"
 ---
 # ADR-001 Technology Stack
 

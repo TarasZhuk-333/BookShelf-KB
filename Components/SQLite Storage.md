@@ -2,6 +2,8 @@
 type: component
 project: BookShelf
 tags: [database, sqlite]
+implements:
+  - "[[Decisions/ADR-001 Technology Stack]]"
 ---
 # SQLite Storage
 

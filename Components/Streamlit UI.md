@@ -2,6 +2,10 @@
 type: component
 project: BookShelf
 tags: [ui, python]
+depends_on:
+  - "[[Components/SQLite Storage]]"
+implements:
+  - "[[Decisions/ADR-001 Technology Stack]]"
 ---
 # Streamlit UI
 
