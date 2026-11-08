@@ -1,1 +1,1 @@
-﻿# BookShelf Knowledge Base
+# BookShelf Knowledge Base
